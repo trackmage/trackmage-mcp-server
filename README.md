@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/trackmage-trackmage-mcp-server-badge.png)](https://mseep.ai/app/trackmage-trackmage-mcp-server)
+
 # TrackMage MCP Server - Shipment Tracking API & Logistics API Integration
 
 A Model Context Protocol (MCP) server for shipment tracking api, package monitoring, and logistics management using the TrackMage API. Supports tracking across 1600+ carriers worldwide.
